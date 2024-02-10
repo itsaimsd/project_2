@@ -41,3 +41,10 @@
     git checkout -b <- new branch name ->  (to create new branch)
 
     git branch -d <-branch name ->      (to delete branch)
+
+    #Git Clone
+    git clone <-link->
+    ls (come in directory)
+    cd delta-demo
+    ls -a(hidden file in folder)
+    
