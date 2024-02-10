@@ -42,7 +42,9 @@
 
     git branch -d <-branch name ->      (to delete branch)
 
-    #Git Clone
+# Git Clone
+    // Git clone
+
     git clone <-link->
     ls (come in directory)
     cd delta-demo
