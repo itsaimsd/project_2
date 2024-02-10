@@ -1,9 +1,9 @@
 # New Project
 
-This project was created from local system.
-Created by shradha Khapra.
+    This project was created from local system.
+    Created by shradha Khapra.
 
-# Tiwari
+# Git Command
     // Basic Commands 
 
     git remote add origin <-link->
