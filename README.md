@@ -10,3 +10,11 @@ Basic Commands
     gir branch (to check branch)
     git branch -m main (to rename branch)
     git push origin main
+
+# Merging Code
+// Merging code
+
+    git diff <- branch name-> (to compare commits, branches, files and more)
+    git merge <-branch name-> (to merge 2 branches)
+            OR
+    Create a PR
