@@ -1,4 +1,4 @@
-# New Project
+# Here are Git Commands
 
     This project was created from local system.
     Created by shradha Khapra.
