@@ -4,11 +4,15 @@
         (Vs code se git pe post karne ko bolte hai)
 
     Pull: 
-        Pulling refers to fetching changes from a remote repository and integrating them into your local repository. When you pull changes, you're essentially updating your local repository with any changes that have been made in the remote repository since your last synchronization.  
+        Pulling refers to fetching changes from a remote repository and integrating them into your local repository. When you pull changes, you're essentially updating your local repository with any changes that have been made in the remote repository since your last synchronization.
+
+    // Summmary
 
         In summary, pushing is about sending your changes to the remote repository, while pulling is about bringing changes from the remote repository to your local repository. These operations are essential for collaboration and maintaining consistency across different copies of a Git repository.
+# Remote Repository
 
-    Remote repository:
+    // Remote repository:
+
         A remote repository, in the context of Git, refers to a repository that is hosted on a server, typically accessible over the internet or a network. The most common platforms for hosting remote repositories include GitHub, GitLab, Bitbucket, and others
 
 # Here are Git Commands
@@ -26,12 +30,16 @@
     git branch -m main (to rename branch)
     git push origin main
 
+# Other Ways
+
     // Other ways
 
     Git status
     git add .
     git commit -m "update"
     git push //git push origin main | git push -u origin main
+
+# Git branch Commands
 
     // Git branch Commands
 
